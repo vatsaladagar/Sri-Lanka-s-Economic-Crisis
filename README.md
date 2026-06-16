@@ -22,7 +22,7 @@ This repository contains the data and Python visualisation code for my Substack 
 
 Bar chart showing Sri Lanka's post-civil war growth, the steady slowdown after 2012, the COVID-19 collapse in 2020, and the IMF-supported recovery through 2024.
 
-!\[GDP Growth](chart1\_gdp\_growth.png)
+!\[GDP Growth](chart1_gdp_growth.png)
 
 **Source:** World Bank World Development Indicators; IMF World Economic Outlook (April 2026)
 
@@ -32,7 +32,7 @@ Bar chart showing Sri Lanka's post-civil war growth, the steady slowdown after 2
 
 Line chart tracing the depletion of reserves from $7.6bn (January 2020) to near zero at the crisis trough, and the subsequent rebuild to $7bn (March 2026) under the IMF Extended Fund Facility.
 
-!\[FX Reserves](chart2\_fx\_reserves.png)
+!\[FX Reserves](chart2_fx_reserves.png)
 
 **Source:** Central Bank of Sri Lanka Monthly Bulletins; IMF EFF Programme Reviews (2023–2026)
 
@@ -42,7 +42,7 @@ Line chart tracing the depletion of reserves from $7.6bn (January 2020) to near 
 
 Dual-axis chart showing how the 2019 tax cuts collapsed the tax-to-GDP ratio from 12% to 7.7% while public debt simultaneously rose above 100% of GDP — the fiscal double-bind at the heart of the crisis.
 
-!\[Tax and Debt](chart3\_tax\_debt.png)
+!\[Tax and Debt](chart3_tax_debt.png)
 
 **Source:** IMF Article IV Consultations; World Bank Fiscal Monitor; Central Bank of Sri Lanka Annual Reports
 
@@ -64,11 +64,11 @@ Dual-axis chart showing how the 2019 tax cuts collapsed the tax-to-GDP ratio fro
 ## Repository Structure
 
 ```
-├── sri\_lanka\_charts.py       # All chart generation code
-├── chart1\_gdp\_growth.png     # Output: GDP growth bar chart
-├── chart2\_fx\_reserves.png    # Output: Foreign reserves line chart
-├── chart3\_tax\_debt.png       # Output: Tax revenue \& debt dual-axis chart
-└── README\_sri\_lanka.md       # This file
+├── sri_lanka_charts.py       # All chart generation code
+├── chart1_gdp_growth.png     # Output: GDP growth bar chart
+├── chart2_fx_reserves.png    # Output: Foreign reserves line chart
+├── chart3_tax_debt.png       # Output: Tax revenue \& debt dual-axis chart
+└── README_sri_lanka.md       # This file
 ```
 
 \---
