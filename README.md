@@ -10,7 +10,7 @@
 
 ## Overview
 
-This repository contains the data and Python visualisation code for my Substack article on Sri Lanka's 2022 economic crisis and IMF-backed recovery. The article examines the structural causes of the collapse — fiscal missteps, governance failure, and debt composition — and situates Sri Lanka's experience within a broader emerging economy risk framework.
+This repository contains the data and Python visualisation code for my Substack article on Sri Lanka's 2022 economic crisis and IMF-backed recovery. The article examines the structural causes of the collapse fiscal missteps, governance failure, and debt composition and situates Sri Lanka's experience within a broader emerging economy risk framework.
 
 **Read the full article →** [vatsaladagar.substack.com](https://vatsaladagar.substack.com)
 
@@ -22,7 +22,7 @@ This repository contains the data and Python visualisation code for my Substack 
 
 Bar chart showing Sri Lanka's post-civil war growth, the steady slowdown after 2012, the COVID-19 collapse in 2020, and the IMF-supported recovery through 2024.
 
-!\[GDP Growth](chart1_gdp_growth.png)
+<img width="1421" height="786" alt="chart1_gdp_growth" src="https://github.com/user-attachments/assets/dcdee0fc-10af-4310-8dfe-6cacfc333a08" />
 
 **Source:** World Bank World Development Indicators; IMF World Economic Outlook (April 2026)
 
@@ -32,7 +32,7 @@ Bar chart showing Sri Lanka's post-civil war growth, the steady slowdown after 2
 
 Line chart tracing the depletion of reserves from $7.6bn (January 2020) to near zero at the crisis trough, and the subsequent rebuild to $7bn (March 2026) under the IMF Extended Fund Facility.
 
-!\[FX Reserves](chart2_fx_reserves.png)
+<img width="1601" height="779" alt="chart2_fx_reserves" src="https://github.com/user-attachments/assets/486001fe-617b-4b79-ad76-572acc895ab6" />
 
 **Source:** Central Bank of Sri Lanka Monthly Bulletins; IMF EFF Programme Reviews (2023–2026)
 
@@ -42,7 +42,7 @@ Line chart tracing the depletion of reserves from $7.6bn (January 2020) to near 
 
 Dual-axis chart showing how the 2019 tax cuts collapsed the tax-to-GDP ratio from 12% to 7.7% while public debt simultaneously rose above 100% of GDP — the fiscal double-bind at the heart of the crisis.
 
-!\[Tax and Debt](chart3_tax_debt.png)
+<img width="1434" height="993" alt="chart3_tax_debt" src="https://github.com/user-attachments/assets/a157229a-47a8-4ae6-9283-5a38f0fb1920" />
 
 **Source:** IMF Article IV Consultations; World Bank Fiscal Monitor; Central Bank of Sri Lanka Annual Reports
 
